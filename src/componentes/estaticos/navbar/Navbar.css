@@ -1,0 +1,14 @@
+.cor{
+    background-image: linear-gradient(to right, rgba(110, 7, 102, 0.945) , rgb(47, 9, 70)) !important;
+}
+.cursor{
+    cursor: pointer;
+    color: aliceblue;
+}
+.text-decorator-none{
+    text-decoration: none;
+}
+#nav{
+    display:flex;
+    justify-content: space-between;
+}

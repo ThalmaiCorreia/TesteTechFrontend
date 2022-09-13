@@ -1,0 +1,18 @@
+.text-decorator-none{
+    text-decoration: none;
+}
+.center{
+    display: flex !important;
+   justify-content: center !important ;
+   margin: 30px;
+
+}
+.card{
+    margin: 30px;
+}
+.background{
+    background-color: rgb(9, 116, 209);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
